@@ -4,7 +4,7 @@ import AccommodationSheet from "../Pages/AccommodationSheet/AccommodationSheet";
 import About from "../Pages/About/About";
 import NotFound from "../Pages/404/404";
 import Header from "./Header/Header";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Footer from "./Footer/Footer";
 
 const AppRouter = () => {
