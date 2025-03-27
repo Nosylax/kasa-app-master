@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kasa-app/static/css/main.644d6b7f.css",
+    "main.js": "/kasa-app/static/js/main.54347553.js",
+    "static/js/453.6f026aea.chunk.js": "/kasa-app/static/js/453.6f026aea.chunk.js",
+    "static/media/banner_image_about.png": "/kasa-app/static/media/banner_image_about.640955dab8c7bff25514.png",
+    "static/media/banner_image_home.png": "/kasa-app/static/media/banner_image_home.19221376a0aa2549c135.png",
+    "index.html": "/kasa-app/index.html",
+    "static/media/chevron-up-solid.svg": "/kasa-app/static/media/chevron-up-solid.0fea8b2c29661f8deae7c0870d8f97f4.svg",
+    "main.644d6b7f.css.map": "/kasa-app/static/css/main.644d6b7f.css.map",
+    "main.54347553.js.map": "/kasa-app/static/js/main.54347553.js.map",
+    "453.6f026aea.chunk.js.map": "/kasa-app/static/js/453.6f026aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644d6b7f.css",
+    "static/js/main.54347553.js"
+  ]
+}
