@@ -1,0 +1,50 @@
+.notFoundTitle {
+  color: #ff6060;
+  font-size: 288px;
+  font-family: Montserrat;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 90px;
+  text-align: center;
+}
+
+.notFoundText {
+  color: #ff6060;
+  font-size: 36px;
+  font-family: Montserrat;
+  font-weight: 500;
+  padding-bottom: 139px;
+  text-align: center;
+  margin: 0px;
+}
+
+.notFoundBack {
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: 500;
+
+  padding-bottom: 139px;
+  text-decoration: underline;
+  text-align: center;
+  margin: 0px;
+}
+
+@media (max-width: 767.98px) {
+  .notFoundTitle {
+    font-size: 96px;
+    padding-top: 113px;
+  }
+  .notFoundText {
+    font-size: 18px;
+    margin: 10px;
+    padding-bottom: 113px;
+  }
+
+  .notFoundBack {
+    font-size: 14px;
+    padding-bottom: 139px;
+    text-decoration: underline;
+    text-align: center;
+    margin: 0px;
+  }
+}

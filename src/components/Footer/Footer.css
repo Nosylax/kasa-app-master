@@ -1,0 +1,26 @@
+.footer {
+  height: 209px;
+  background-color: black;
+  text-align: center;
+}
+
+.footerText {
+  color: white;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 24px;
+  margin: 0px;
+  margin-top: 28px;
+}
+
+.footerItems {
+  padding-top: 66px;
+}
+
+@media (max-width: 767.98px) {
+  .footerText {
+    font-size: 12px;
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+}

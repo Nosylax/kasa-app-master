@@ -1,0 +1,62 @@
+.arrowLeft {
+  position: absolute;
+  left: 23.36px;
+}
+
+.arrowRight {
+  position: absolute;
+  right: 23.36px;
+}
+
+.slideshow {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.slider {
+  border-radius: 25px;
+  width: 100%;
+  height: 415px;
+  object-fit: cover;
+}
+
+.counter {
+  position: absolute;
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: 500;
+  color: white;
+  bottom: 10px;
+}
+
+@media (max-width: 767.98px) {
+  .slider {
+    border-radius: 10px;
+    height: 255px;
+  }
+
+  .slideshow {
+    margin-bottom: 15px;
+    margin-top: 27px;
+  }
+
+  .arrowLeft {
+    position: absolute;
+    left: 5.84px;
+    height: 24px;
+  }
+
+  .arrowRight {
+    position: absolute;
+    right: 5.84px;
+    height: 24px;
+  }
+
+  .counter {
+    display: none;
+  }
+}
